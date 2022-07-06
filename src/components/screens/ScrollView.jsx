@@ -40,12 +40,12 @@ const ScrollView = () => {
     },
     {
       id: 7,
-      name: "series",
+      name: "technology",
       active: false,
     },
     {
       id: 7,
-      name: "series",
+      name: "web",
       active: false,
     },
   ];
@@ -76,13 +76,15 @@ const Cover = styled.div`
 `;
 const Card = styled.span`
     padding:4px 8px;
-    border:.5px solid #000;
+    border:.5px solid #fff;
     border-radius:20px;
-    font-size:16px;
-    background:#ddd;
+    font-size:12px;
+    background:#e5e6e789;
     margin-right:10px;
     white-space: nowrap;
     text-transform : capitalize;
+    color : #000;
+
     cursor: pointer;
     &.active{
         background : #706a6a;

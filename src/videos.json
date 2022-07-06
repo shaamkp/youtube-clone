@@ -37,164 +37,55 @@
   },
   {
     "id": 5,
-    "name": "video 5",
+    "name": "React Website using Styled Components and Smooth Scroll - Beginner Project Fully Responsive",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Nl54MJDR2p8/hqdefault.jpg?s…EIYAXABwAEG&rs=AOn4CLDN4p4v6YBI5n-9_zis-Wywcu6DWQ",
+    "video_url": "https://www.youtube.com/watch?v=Nl54MJDR2p8",
     "channel": "Debug Media",
     "date": "3 years ago"
   },
   {
     "id": 6,
-    "name": "video 6",
+    "name": "Styled Components Full Tutorial - Style Your Components in React",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
+    "thumbnail": "https://i.ytimg.com/vi/-FZzPHSLauc/hqdefault.jpg?s…EIYAXABwAEG&rs=AOn4CLAVlJSuZdhIyQV2O2LInNFQ4gpY0g",
+    "video_url": "https://www.youtube.com/watch?v=-FZzPHSLauc",
     "channel": "Debug Media",
     "date": "3 years ago"
   },
   {
     "id": 7,
-    "name": "video 7",
+    "name": "Styled Components",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
+    "thumbnail": "https://i.ytimg.com/vi/hQAHSlTtcmY/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCQymDijlQAkxo4lhdSAPLfTM21KA",
     "video_url": "https://youtu.be/oo1YiqhZzzQ",
     "channel": "Debug Media",
     "date": "3 years ago"
   },
   {
     "id": 8,
-    "name": "video 1",
+    "name": "Chai with Tech | Mi 12s Ultra, OnePlus 10T, iPhone 14 | ( 167 ) 6-07-2022",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Nz4Gci8xYew/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBVk_gtNsZ3OokTcQXJwrR8LREFaA",
+    "video_url": "https://www.youtube.com/watch?v=Nz4Gci8xYew",
     "channel": "Debug Media",
     "date": "3 years ago"
   },
   {
     "id": 9,
-    "name": "video 1",
+    "name": "React JS - React Tutorial for Beginners",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
+    "thumbnail": "https://i.ytimg.com/vi/Ke90Tje7VS0/hqdefault.jpg?s…AFwAcABBg==&rs=AOn4CLBxVHQi2Kl08yoNtC5UKA97R83OdQ",
+    "video_url": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
     "channel": "Debug Media",
     "date": "3 years ago"
   },
   {
     "id": 10,
-    "name": "video 8",
+    "name": "Let's Build a Full-Stack AMAZON Clone with REACT JS for Beginners (Full E-Comm Store in 8 Hrs) 2021",
     "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-
-  {
-    "id": 11,
-    "name": "video 9",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 12,
-    "name": "video 10",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 13,
-    "name": "video 11",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 14,
-    "name": "video 12",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 15,
-    "name": "video 13",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 16,
-    "name": "video 14",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 17,
-    "name": "video 15",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 18,
-    "name": "video 16",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 19,
-    "name": "video 17",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 20,
-    "name": "video 18",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 21,
-    "name": "video 19",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
-    "channel": "Debug Media",
-    "date": "3 years ago"
-  },
-  {
-    "id": 22,
-    "name": "video 20",
-    "channel_dp": "https://yt3.ggpht.com/6yzdiseaelLzoO2EqykoY8RGlBCSpsZ_zCx16LhW6Jwpbv739avvydsDP4N79AaCiL7O0CAaFw=s176-c-k-c0x00ffffff-no-rj",
-    "thumbnail": "https://i.ytimg.com/vi/vJEO57B05Sg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhFH5je8MdEWjMWJVNX9EKmy2kLQ",
-    "video_url": "https://youtu.be/oo1YiqhZzzQ",
+    "thumbnail": "https://i.ytimg.com/vi/RDV3Z1KCBvo/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLD-RHIIrX9WSf7IdTa2J4j4wSLtwQ",
+    "video_url": "https://www.youtube.com/watch?v=RDV3Z1KCBvo",
     "channel": "Debug Media",
     "date": "3 years ago"
   }
